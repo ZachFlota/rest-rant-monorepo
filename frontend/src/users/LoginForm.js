@@ -34,7 +34,6 @@ function LoginForm() {
         } else {
             setErrorMessage(data.message)
         }
-
     }
 
     return (
